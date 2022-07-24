@@ -1,7 +1,7 @@
 # Text Classification with Deep Learning
 
 In this project, I used TensorFlow to implement some deep learning architectures used to classify sequences of raw text.
-Since the algorithms I implemented are computationally expensive, I used Amazon's Deep Learning machine (on EC2) for training,
+Since the algorithms are computationally expensive, I used Amazon's Deep Learning machine (on EC2) for training,
 which has some preinstalled DL tools.
 
 Task1: implements a classic RNN that tries to determine what file each line of text came from,
